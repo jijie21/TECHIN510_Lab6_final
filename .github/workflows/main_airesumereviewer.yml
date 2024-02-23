@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'AIResumeReviewer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2A0F0CEDB73B4C26B0FC2E0B97B163D2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AB882692F15D4EE389881A263D38B19A }}
